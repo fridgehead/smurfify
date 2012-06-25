@@ -1,0 +1,14 @@
+takes a filename, loads it and smurfifies the words. For example:
+
+As it happens, Twitter's application programming interface (API) is particularly convoluted - it seems to have evolved by using many different ways of doing various things.
+
+
+becomes
+
+
+Twitter's application programming interface (API) is particularly smurf-uted - it seems to have evolved by using many smurf-erent ways of doing smurf-ous things
+
+
+---------------
+
+requires python and the pattern (http://www.clips.ua.ac.be/pages/pattern) library
